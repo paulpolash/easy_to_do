@@ -11,6 +11,7 @@ import 'package:provider/provider.dart';
 
 import '../res/api_key.dart';
 import '../res/component/round_button.dart';
+import '../utility/route/route_name.dart';
 import '../utility/utils.dart';
 import '../view_model/auth_view_model.dart';
 
@@ -261,8 +262,9 @@ class _LoginScreenState extends State<Login> {
                               ),
                             ),
                           ),
-                          Center(
+                          InkWell(
                             // signupoqw (7:4)
+                            onTap:(){ Navigator.pushNamed(context, RouteName.sign);},
                             child: Text(
                               'Sign Up',
                               textAlign: TextAlign.center,

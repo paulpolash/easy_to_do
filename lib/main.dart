@@ -5,7 +5,7 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:myapp/utility/route/route.dart';
 import 'package:myapp/utility/route/route_name.dart';
 import 'package:myapp/utils.dart';
-import 'package:myapp/page-1/splash.dart';
+import 'package:myapp/view/splash.dart';
 import 'package:myapp/view_model/auth_view_model.dart';
 import 'package:myapp/view_model/user_view_model.dart';
 import 'package:provider/provider.dart';
