@@ -261,487 +261,487 @@ class Home extends StatelessWidget {
                               ),
                             ),
                           ),
-                          Container(
-                            // frame1171275749Auj (1:262)
-                            // margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 14*fem),
-                            // padding: EdgeInsets.fromLTRB(14*fem, 7*fem, 14*fem, 9*fem),
-                            width: double.infinity,
-                            decoration: BoxDecoration (
-                              color: Color(0xffffffff),
-                              borderRadius: BorderRadius.circular(14*fem),
-                            ),
-                            child: Column(
-                              crossAxisAlignment: CrossAxisAlignment.center,
-                              children: [
-                                Container(
-                                  // frame11712757485G1 (1:263)
-                                  margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 18.5*fem),
-                                  width: double.infinity,
-                                  height: 45.5*fem,
-                                  child: Row(
-                                    crossAxisAlignment: CrossAxisAlignment.center,
-                                    children: [
-                                      Container(
-                                        // frame1171275742ztm (1:264)
-                                        margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 93*fem, 0*fem),
-                                        width: 189*fem,
-                                        height: double.infinity,
-                                        child: Column(
-                                          crossAxisAlignment: CrossAxisAlignment.start,
-                                          children: [
-                                            Center(
-                                              // mentorshipsession8EH (1:265)
-                                              child: Container(
-                                                margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 0.5*fem),
-                                                width: double.infinity,
-                                                child: Text(
-                                                  'Mentorship Session',
-                                                  textAlign: TextAlign.center,
-                                                  style: SafeGoogleFont (
-                                                    'Manrope',
-                                                    fontSize: 20*ffem,
-                                                    fontWeight: FontWeight.w600,
-                                                    height: 1.365*ffem/fem,
-                                                    color: Color(0xff282b31),
-                                                  ),
-                                                ),
-                                              ),
-                                            ),
-                                            Container(
-                                              // frame1171275747q8h (1:266)
-                                              margin: EdgeInsets.fromLTRB(1.13*fem, 0*fem, 40*fem, 0*fem),
-                                              width: double.infinity,
-                                              height: 17*fem,
-                                              child: Row(
-                                                crossAxisAlignment: CrossAxisAlignment.center,
-                                                children: [
-                                                  Container(
-                                                    // frame1171275741AAy (1:267)
-                                                    margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
-                                                    height: double.infinity,
-                                                    child: Row(
-                                                      crossAxisAlignment: CrossAxisAlignment.center,
-                                                      children: [
-                                                        Container(
-                                                          // clock6aR (1:268)
-                                                          margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9.12*fem, 0*fem),
-                                                          width: 9.75*fem,
-                                                          height: 9.75*fem,
-                                                          child: Image.asset(
-                                                            'assets/page-1/images/clock.png',
-                                                            width: 9.75*fem,
-                                                            height: 9.75*fem,
-                                                          ),
-                                                        ),
-                                                        Center(
-                                                          // jan2024pWR (1:270)
-                                                          child: Text(
-                                                            '20 JAN 2024',
-                                                            textAlign: TextAlign.center,
-                                                            style: SafeGoogleFont (
-                                                              'Manrope',
-                                                              fontSize: 12*ffem,
-                                                              fontWeight: FontWeight.w400,
-                                                              height: 1.365*ffem/fem,
-                                                              color: Color(0xff979797),
-                                                            ),
-                                                          ),
-                                                        ),
-                                                      ],
-                                                    ),
-                                                  ),
-                                                  Container(
-                                                    // frame11712757439Yh (1:271)
-                                                    margin: EdgeInsets.fromLTRB(0*fem, 0.5*fem, 0*fem, 0.5*fem),
-                                                    width: 53*fem,
-                                                    height: double.infinity,
-                                                    decoration: BoxDecoration (
-                                                      color: Color(0xfffffaec),
-                                                      borderRadius: BorderRadius.circular(14*fem),
-                                                    ),
-                                                    child: Center(
-                                                      child: Center(
-                                                        child: Text(
-                                                          'Incomplete',
-                                                          textAlign: TextAlign.center,
-                                                          style: SafeGoogleFont (
-                                                            'Manrope',
-                                                            fontSize: 8*ffem,
-                                                            fontWeight: FontWeight.w500,
-                                                            height: 1.365*ffem/fem,
-                                                            color: Color(0xfffbbc04),
-                                                          ),
-                                                        ),
-                                                      ),
-                                                    ),
-                                                  ),
-                                                ],
-                                              ),
-                                            ),
-                                          ],
-                                        ),
-                                      ),
-                                      Container(
-                                        // frame1000000852ot9 (1:273)
-                                        margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7.5*fem),
-                                        width: 30*fem,
-                                        height: 24*fem,
-                                        child: Image.asset(
-                                          'assets/page-1/images/frame-1000000852-e2q.png',
-                                          width: 30*fem,
-                                          height: 24*fem,
-                                        ),
-                                      ),
-                                    ],
-                                  ),
-                                ),
-                                Container(
-                                  // haveasessiononadplistwithashiq (1:276)
-                                  margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 35*fem, 0*fem),
-                                  child: Text(
-                                    'Have a session on ADPList with Ashiq Khan.',
-                                    style: SafeGoogleFont (
-                                      'Manrope',
-                                      fontSize: 14*ffem,
-                                      fontWeight: FontWeight.w400,
-                                      height: 1.365*ffem/fem,
-                                      color: Color(0xff5b5b5b),
-                                    ),
-                                  ),
-                                ),
-                              ],
-                            ),
-                          ),
-                          Container(
-                            // autogroupvwvgDgy (Y6MCdY8UBzUom54r8CvWvg)
-                            margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 13.5*fem),
-                            width: double.infinity,
-                            height: 252.5*fem,
-                            child: Stack(
-                              children: [
-                                Positioned(
-                                  // frame1171275750jvD (1:277)
-                                  left: 0*fem,
-                                  top: 0*fem,
-                                  child: Container(
-                                    width: 340*fem,
-                                    height: 167*fem,
-                                    decoration: BoxDecoration (
-                                      color: Color(0xffffffff),
-                                      borderRadius: BorderRadius.circular(14*fem),
-                                    ),
-                                    child: Stack(
-                                      children: [
-                                        Positioned(
-                                          // frame1171275748eXP (1:278)
-                                          left: 14*fem,
-                                          top: 7*fem,
-                                          child: Container(
-                                            width: 312*fem,
-                                            height: 45.5*fem,
-                                            child: Row(
-                                              crossAxisAlignment: CrossAxisAlignment.center,
-                                              children: [
-                                                Container(
-                                                  // frame1171275742aA9 (1:279)
-                                                  margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 122*fem, 0*fem),
-                                                  width: 160*fem,
-                                                  height: double.infinity,
-                                                  child: Column(
-                                                    crossAxisAlignment: CrossAxisAlignment.start,
-                                                    children: [
-                                                      Center(
-                                                        // productmeeting6uB (1:280)
-                                                        child: Container(
-                                                          margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 0.5*fem),
-                                                          width: double.infinity,
-                                                          child: Text(
-                                                            'Product Meeting',
-                                                            textAlign: TextAlign.center,
-                                                            style: SafeGoogleFont (
-                                                              'Manrope',
-                                                              fontSize: 20*ffem,
-                                                              fontWeight: FontWeight.w600,
-                                                              height: 1.365*ffem/fem,
-                                                              color: Color(0xff282b31),
-                                                            ),
-                                                          ),
-                                                        ),
-                                                      ),
-                                                      Container(
-                                                        // frame1171275747Diu (1:281)
-                                                        margin: EdgeInsets.fromLTRB(1.13*fem, 0*fem, 11*fem, 0*fem),
-                                                        width: double.infinity,
-                                                        height: 17*fem,
-                                                        child: Row(
-                                                          crossAxisAlignment: CrossAxisAlignment.center,
-                                                          children: [
-                                                            Container(
-                                                              // frame1171275741LoX (1:282)
-                                                              margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
-                                                              height: double.infinity,
-                                                              child: Row(
-                                                                crossAxisAlignment: CrossAxisAlignment.center,
-                                                                children: [
-                                                                  Container(
-                                                                    // clockHCy (1:283)
-                                                                    margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9.12*fem, 0*fem),
-                                                                    width: 9.75*fem,
-                                                                    height: 9.75*fem,
-                                                                    child: Image.asset(
-                                                                      'assets/page-1/images/clock-ARB.png',
-                                                                      width: 9.75*fem,
-                                                                      height: 9.75*fem,
-                                                                    ),
-                                                                  ),
-                                                                  Center(
-                                                                    // jan2024PfK (1:285)
-                                                                    child: Text(
-                                                                      '20 JAN 2024',
-                                                                      textAlign: TextAlign.center,
-                                                                      style: SafeGoogleFont (
-                                                                        'Manrope',
-                                                                        fontSize: 12*ffem,
-                                                                        fontWeight: FontWeight.w400,
-                                                                        height: 1.365*ffem/fem,
-                                                                        color: Color(0xff979797),
-                                                                      ),
-                                                                    ),
-                                                                  ),
-                                                                ],
-                                                              ),
-                                                            ),
-                                                            Container(
-                                                              // frame1171275743vQM (1:286)
-                                                              margin: EdgeInsets.fromLTRB(0*fem, 0.5*fem, 0*fem, 0.5*fem),
-                                                              width: 53*fem,
-                                                              height: double.infinity,
-                                                              decoration: BoxDecoration (
-                                                                color: Color(0xfffffaec),
-                                                                borderRadius: BorderRadius.circular(14*fem),
-                                                              ),
-                                                              child: Center(
-                                                                child: Center(
-                                                                  child: Text(
-                                                                    'Incomplete',
-                                                                    textAlign: TextAlign.center,
-                                                                    style: SafeGoogleFont (
-                                                                      'Manrope',
-                                                                      fontSize: 8*ffem,
-                                                                      fontWeight: FontWeight.w500,
-                                                                      height: 1.365*ffem/fem,
-                                                                      color: Color(0xfffbbc04),
-                                                                    ),
-                                                                  ),
-                                                                ),
-                                                              ),
-                                                            ),
-                                                          ],
-                                                        ),
-                                                      ),
-                                                    ],
-                                                  ),
-                                                ),
-                                                Container(
-                                                  // frame1171275743PHw (1:288)
-                                                  margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7.5*fem),
-                                                  width: 30*fem,
-                                                  height: 24*fem,
-                                                  child: Image.asset(
-                                                    'assets/page-1/images/frame-1171275743-MxR.png',
-                                                    width: 30*fem,
-                                                    height: 24*fem,
-                                                  ),
-                                                ),
-                                              ],
-                                            ),
-                                          ),
-                                        ),
-                                        Positioned(
-                                          // explorethepowerofourlatestappf (1:291)
-                                          left: 14*fem,
-                                          top: 14*fem,
-                                          child: Align(
-                                            child: SizedBox(
-                                              width: 321*fem,
-                                              height: 153*fem,
-                                              child: Text(
-                                                'Explore the power of our latest app feature - "Product Meeting." Effortlessly schedule and manage crucial product discussions in one central space. Collaborate seamlessly, set agenda items, and keep your team aligned for successful product development. Elevate your productivity with this intuitive feature designed to streamline your product meetings like never before.',
-                                                style: SafeGoogleFont (
-                                                  'Manrope',
-                                                  fontSize: 14*ffem,
-                                                  fontWeight: FontWeight.w400,
-                                                  height: 1.365*ffem/fem,
-                                                  color: Color(0xff5b5b5b),
-                                                ),
-                                              ),
-                                            ),
-                                          ),
-                                        ),
-                                      ],
-                                    ),
-                                  ),
-                                ),
-                                // Positioned(
-                                //   // frame1171275751S9j (1:292)
-                                //   left: 0*fem,
-                                //   top: 133*fem,
-                                //   child: Container(
-                                //     padding: EdgeInsets.fromLTRB(14*fem, 7*fem, 6*fem, 0*fem),
-                                //     width: 340*fem,
-                                //     height: 119.5*fem,
-                                //     decoration: BoxDecoration (
-                                //       color: Color(0xffffffff),
-                                //       borderRadius: BorderRadius.circular(14*fem),
-                                //     ),
-                                //     child: Column(
-                                //       crossAxisAlignment: CrossAxisAlignment.center,
-                                //       children: [
-                                //         Container(
-                                //           // frame1171275748vah (1:293)
-                                //           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 9*fem),
-                                //           width: double.infinity,
-                                //           height: 45.5*fem,
-                                //           child: Row(
-                                //             crossAxisAlignment: CrossAxisAlignment.center,
-                                //             children: [
-                                //               Container(
-                                //                 // frame11712757424B7 (1:294)
-                                //                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 104*fem, 0*fem),
-                                //                 width: 178*fem,
-                                //                 height: double.infinity,
-                                //                 child: Column(
-                                //                   crossAxisAlignment: CrossAxisAlignment.start,
-                                //                   children: [
-                                //                     Center(
-                                //                       // breakfastmeetupBWd (1:295)
-                                //                       child: Container(
-                                //                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 0.5*fem),
-                                //                         width: double.infinity,
-                                //                         child: Text(
-                                //                           'Breakfast Meet-up',
-                                //                           textAlign: TextAlign.center,
-                                //                           style: SafeGoogleFont (
-                                //                             'Manrope',
-                                //                             fontSize: 20*ffem,
-                                //                             fontWeight: FontWeight.w600,
-                                //                             height: 1.365*ffem/fem,
-                                //                             color: Color(0xff282b31),
-                                //                           ),
-                                //                         ),
-                                //                       ),
-                                //                     ),
-                                //                     // Container(
-                                //                     //   // frame1171275747VXK (1:296)
-                                //                     //   margin: EdgeInsets.fromLTRB(1.13*fem, 0*fem, 29*fem, 0*fem),
-                                //                     //   width: double.infinity,
-                                //                     //   height: 17*fem,
-                                //                     //   child: Row(
-                                //                     //     crossAxisAlignment: CrossAxisAlignment.center,
-                                //                     //     children: [
-                                //                     //       Container(
-                                //                     //         // frame1171275741bqF (1:297)
-                                //                     //         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
-                                //                     //         height: double.infinity,
-                                //                     //         child: Row(
-                                //                     //           crossAxisAlignment: CrossAxisAlignment.center,
-                                //                     //           children: [
-                                //                     //             Container(
-                                //                     //               // clockjRf (1:298)
-                                //                     //               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9.12*fem, 0*fem),
-                                //                     //               width: 9.75*fem,
-                                //                     //               height: 9.75*fem,
-                                //                     //               child: Image.asset(
-                                //                     //                 'assets/page-1/images/clock-Ads.png',
-                                //                     //                 width: 9.75*fem,
-                                //                     //                 height: 9.75*fem,
-                                //                     //               ),
-                                //                     //             ),
-                                //                     //             Center(
-                                //                     //               // jan2024eHj (1:300)
-                                //                     //               child: Text(
-                                //                     //                 '20 JAN 2024',
-                                //                     //                 textAlign: TextAlign.center,
-                                //                     //                 style: SafeGoogleFont (
-                                //                     //                   'Manrope',
-                                //                     //                   fontSize: 12*ffem,
-                                //                     //                   fontWeight: FontWeight.w400,
-                                //                     //                   height: 1.365*ffem/fem,
-                                //                     //                   color: Color(0xff979797),
-                                //                     //                 ),
-                                //                     //               ),
-                                //                     //             ),
-                                //                     //           ],
-                                //                     //         ),
-                                //                     //       ),
-                                //                     //       Container(
-                                //                     //         // frame1171275745mdF (1:301)
-                                //                     //         margin: EdgeInsets.fromLTRB(0*fem, 0.5*fem, 0*fem, 0.5*fem),
-                                //                     //         width: 53*fem,
-                                //                     //         height: double.infinity,
-                                //                     //         decoration: BoxDecoration (
-                                //                     //           color: Color(0xfffffaec),
-                                //                     //           borderRadius: BorderRadius.circular(14*fem),
-                                //                     //         ),
-                                //                     //         child: Center(
-                                //                     //           child: Center(
-                                //                     //             child: Text(
-                                //                     //               'Incomplete',
-                                //                     //               textAlign: TextAlign.center,
-                                //                     //               style: SafeGoogleFont (
-                                //                     //                 'Manrope',
-                                //                     //                 fontSize: 8*ffem,
-                                //                     //                 fontWeight: FontWeight.w500,
-                                //                     //                 height: 1.365*ffem/fem,
-                                //                     //                 color: Color(0xfffbbc04),
-                                //                     //               ),
-                                //                     //             ),
-                                //                     //           ),
-                                //                     //         ),
-                                //                     //       ),
-                                //                     //     ],
-                                //                     //   ),
-                                //                     // ),
-                                //                   ],
-                                //                 ),
-                                //               ),
-                                //               // Container(
-                                //               //   // frame1171275743rPo (1:303)
-                                //               //   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7.5*fem),
-                                //               //   width: 30*fem,
-                                //               //   height: 24*fem,
-                                //               //   child: Image.asset(
-                                //               //     'assets/page-1/images/frame-1171275743-qn5.png',
-                                //               //     width: 30*fem,
-                                //               //     height: 24*fem,
-                                //               //   ),
-                                //               // ),
-                                //             ],
-                                //           ),
-                                //         ),
-                                //         // Container(
-                                //         //   // planamorningdelightusethistask (1:306)
-                                //         //   constraints: BoxConstraints (
-                                //         //     maxWidth: 320*fem,
-                                //         //   ),
-                                //         //   child: Text(
-                                //         //     'Plan a morning delight! Use this task to set a spot, date, and time for a memorable breakfast with friends. Keep it simple, start the day right! ',
-                                //         //     style: SafeGoogleFont (
-                                //         //       'Manrope',
-                                //         //       fontSize: 14*ffem,
-                                //         //       fontWeight: FontWeight.w400,
-                                //         //       height: 1.365*ffem/fem,
-                                //         //       color: Color(0xff5b5b5b),
-                                //         //     ),
-                                //         //   ),
-                                //         // ),
-                                //       ],
-                                //     ),
-                                //   ),
-                                // ),
-                              ],
-                            ),
-                          ),
+                          // Container(
+                          //   // frame1171275749Auj (1:262)
+                          //   // margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 14*fem),
+                          //   // padding: EdgeInsets.fromLTRB(14*fem, 7*fem, 14*fem, 9*fem),
+                          //   width: double.infinity,
+                          //   decoration: BoxDecoration (
+                          //     color: Color(0xffffffff),
+                          //     borderRadius: BorderRadius.circular(14*fem),
+                          //   ),
+                          //   child: Column(
+                          //     crossAxisAlignment: CrossAxisAlignment.center,
+                          //     children: [
+                          //       Container(
+                          //         // frame11712757485G1 (1:263)
+                          //         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 18.5*fem),
+                          //         width: double.infinity,
+                          //         height: 45.5*fem,
+                          //         child: Row(
+                          //           crossAxisAlignment: CrossAxisAlignment.center,
+                          //           children: [
+                          //             Container(
+                          //               // frame1171275742ztm (1:264)
+                          //               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 93*fem, 0*fem),
+                          //               width: 189*fem,
+                          //               height: double.infinity,
+                          //               child: Column(
+                          //                 crossAxisAlignment: CrossAxisAlignment.start,
+                          //                 children: [
+                          //                   Center(
+                          //                     // mentorshipsession8EH (1:265)
+                          //                     child: Container(
+                          //                       margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 0.5*fem),
+                          //                       width: double.infinity,
+                          //                       child: Text(
+                          //                         'Mentorship Session',
+                          //                         textAlign: TextAlign.center,
+                          //                         style: SafeGoogleFont (
+                          //                           'Manrope',
+                          //                           fontSize: 20*ffem,
+                          //                           fontWeight: FontWeight.w600,
+                          //                           height: 1.365*ffem/fem,
+                          //                           color: Color(0xff282b31),
+                          //                         ),
+                          //                       ),
+                          //                     ),
+                          //                   ),
+                          //                   Container(
+                          //                     // frame1171275747q8h (1:266)
+                          //                     margin: EdgeInsets.fromLTRB(1.13*fem, 0*fem, 40*fem, 0*fem),
+                          //                     width: double.infinity,
+                          //                     height: 17*fem,
+                          //                     child: Row(
+                          //                       crossAxisAlignment: CrossAxisAlignment.center,
+                          //                       children: [
+                          //                         Container(
+                          //                           // frame1171275741AAy (1:267)
+                          //                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
+                          //                           height: double.infinity,
+                          //                           child: Row(
+                          //                             crossAxisAlignment: CrossAxisAlignment.center,
+                          //                             children: [
+                          //                               Container(
+                          //                                 // clock6aR (1:268)
+                          //                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9.12*fem, 0*fem),
+                          //                                 width: 9.75*fem,
+                          //                                 height: 9.75*fem,
+                          //                                 child: Image.asset(
+                          //                                   'assets/page-1/images/clock.png',
+                          //                                   width: 9.75*fem,
+                          //                                   height: 9.75*fem,
+                          //                                 ),
+                          //                               ),
+                          //                               Center(
+                          //                                 // jan2024pWR (1:270)
+                          //                                 child: Text(
+                          //                                   '20 JAN 2024',
+                          //                                   textAlign: TextAlign.center,
+                          //                                   style: SafeGoogleFont (
+                          //                                     'Manrope',
+                          //                                     fontSize: 12*ffem,
+                          //                                     fontWeight: FontWeight.w400,
+                          //                                     height: 1.365*ffem/fem,
+                          //                                     color: Color(0xff979797),
+                          //                                   ),
+                          //                                 ),
+                          //                               ),
+                          //                             ],
+                          //                           ),
+                          //                         ),
+                          //                         Container(
+                          //                           // frame11712757439Yh (1:271)
+                          //                           margin: EdgeInsets.fromLTRB(0*fem, 0.5*fem, 0*fem, 0.5*fem),
+                          //                           width: 53*fem,
+                          //                           height: double.infinity,
+                          //                           decoration: BoxDecoration (
+                          //                             color: Color(0xfffffaec),
+                          //                             borderRadius: BorderRadius.circular(14*fem),
+                          //                           ),
+                          //                           child: Center(
+                          //                             child: Center(
+                          //                               child: Text(
+                          //                                 'Incomplete',
+                          //                                 textAlign: TextAlign.center,
+                          //                                 style: SafeGoogleFont (
+                          //                                   'Manrope',
+                          //                                   fontSize: 8*ffem,
+                          //                                   fontWeight: FontWeight.w500,
+                          //                                   height: 1.365*ffem/fem,
+                          //                                   color: Color(0xfffbbc04),
+                          //                                 ),
+                          //                               ),
+                          //                             ),
+                          //                           ),
+                          //                         ),
+                          //                       ],
+                          //                     ),
+                          //                   ),
+                          //                 ],
+                          //               ),
+                          //             ),
+                          //             Container(
+                          //               // frame1000000852ot9 (1:273)
+                          //               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7.5*fem),
+                          //               width: 30*fem,
+                          //               height: 24*fem,
+                          //               child: Image.asset(
+                          //                 'assets/page-1/images/frame-1000000852-e2q.png',
+                          //                 width: 30*fem,
+                          //                 height: 24*fem,
+                          //               ),
+                          //             ),
+                          //           ],
+                          //         ),
+                          //       ),
+                          //       Container(
+                          //         // haveasessiononadplistwithashiq (1:276)
+                          //         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 35*fem, 0*fem),
+                          //         child: Text(
+                          //           'Have a session on ADPList with Ashiq Khan.',
+                          //           style: SafeGoogleFont (
+                          //             'Manrope',
+                          //             fontSize: 14*ffem,
+                          //             fontWeight: FontWeight.w400,
+                          //             height: 1.365*ffem/fem,
+                          //             color: Color(0xff5b5b5b),
+                          //           ),
+                          //         ),
+                          //       ),
+                          //     ],
+                          //   ),
+                          // ),
+                          // Container(
+                          //   // autogroupvwvgDgy (Y6MCdY8UBzUom54r8CvWvg)
+                          //   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 13.5*fem),
+                          //   width: double.infinity,
+                          //   height: 252.5*fem,
+                          //   child: Stack(
+                          //     children: [
+                          //       Positioned(
+                          //         // frame1171275750jvD (1:277)
+                          //         left: 0*fem,
+                          //         top: 0*fem,
+                          //         child: Container(
+                          //           width: 340*fem,
+                          //           height: 167*fem,
+                          //           decoration: BoxDecoration (
+                          //             color: Color(0xffffffff),
+                          //             borderRadius: BorderRadius.circular(14*fem),
+                          //           ),
+                          //           child: Stack(
+                          //             children: [
+                          //               Positioned(
+                          //                 // frame1171275748eXP (1:278)
+                          //                 left: 14*fem,
+                          //                 top: 7*fem,
+                          //                 child: Container(
+                          //                   width: 312*fem,
+                          //                   height: 45.5*fem,
+                          //                   child: Row(
+                          //                     crossAxisAlignment: CrossAxisAlignment.center,
+                          //                     children: [
+                          //                       Container(
+                          //                         // frame1171275742aA9 (1:279)
+                          //                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 122*fem, 0*fem),
+                          //                         width: 160*fem,
+                          //                         height: double.infinity,
+                          //                         child: Column(
+                          //                           crossAxisAlignment: CrossAxisAlignment.start,
+                          //                           children: [
+                          //                             Center(
+                          //                               // productmeeting6uB (1:280)
+                          //                               child: Container(
+                          //                                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 0.5*fem),
+                          //                                 width: double.infinity,
+                          //                                 child: Text(
+                          //                                   'Product Meeting',
+                          //                                   textAlign: TextAlign.center,
+                          //                                   style: SafeGoogleFont (
+                          //                                     'Manrope',
+                          //                                     fontSize: 20*ffem,
+                          //                                     fontWeight: FontWeight.w600,
+                          //                                     height: 1.365*ffem/fem,
+                          //                                     color: Color(0xff282b31),
+                          //                                   ),
+                          //                                 ),
+                          //                               ),
+                          //                             ),
+                          //                             Container(
+                          //                               // frame1171275747Diu (1:281)
+                          //                               margin: EdgeInsets.fromLTRB(1.13*fem, 0*fem, 11*fem, 0*fem),
+                          //                               width: double.infinity,
+                          //                               height: 17*fem,
+                          //                               child: Row(
+                          //                                 crossAxisAlignment: CrossAxisAlignment.center,
+                          //                                 children: [
+                          //                                   Container(
+                          //                                     // frame1171275741LoX (1:282)
+                          //                                     margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
+                          //                                     height: double.infinity,
+                          //                                     child: Row(
+                          //                                       crossAxisAlignment: CrossAxisAlignment.center,
+                          //                                       children: [
+                          //                                         Container(
+                          //                                           // clockHCy (1:283)
+                          //                                           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9.12*fem, 0*fem),
+                          //                                           width: 9.75*fem,
+                          //                                           height: 9.75*fem,
+                          //                                           child: Image.asset(
+                          //                                             'assets/page-1/images/clock-ARB.png',
+                          //                                             width: 9.75*fem,
+                          //                                             height: 9.75*fem,
+                          //                                           ),
+                          //                                         ),
+                          //                                         Center(
+                          //                                           // jan2024PfK (1:285)
+                          //                                           child: Text(
+                          //                                             '20 JAN 2024',
+                          //                                             textAlign: TextAlign.center,
+                          //                                             style: SafeGoogleFont (
+                          //                                               'Manrope',
+                          //                                               fontSize: 12*ffem,
+                          //                                               fontWeight: FontWeight.w400,
+                          //                                               height: 1.365*ffem/fem,
+                          //                                               color: Color(0xff979797),
+                          //                                             ),
+                          //                                           ),
+                          //                                         ),
+                          //                                       ],
+                          //                                     ),
+                          //                                   ),
+                          //                                   Container(
+                          //                                     // frame1171275743vQM (1:286)
+                          //                                     margin: EdgeInsets.fromLTRB(0*fem, 0.5*fem, 0*fem, 0.5*fem),
+                          //                                     width: 53*fem,
+                          //                                     height: double.infinity,
+                          //                                     decoration: BoxDecoration (
+                          //                                       color: Color(0xfffffaec),
+                          //                                       borderRadius: BorderRadius.circular(14*fem),
+                          //                                     ),
+                          //                                     child: Center(
+                          //                                       child: Center(
+                          //                                         child: Text(
+                          //                                           'Incomplete',
+                          //                                           textAlign: TextAlign.center,
+                          //                                           style: SafeGoogleFont (
+                          //                                             'Manrope',
+                          //                                             fontSize: 8*ffem,
+                          //                                             fontWeight: FontWeight.w500,
+                          //                                             height: 1.365*ffem/fem,
+                          //                                             color: Color(0xfffbbc04),
+                          //                                           ),
+                          //                                         ),
+                          //                                       ),
+                          //                                     ),
+                          //                                   ),
+                          //                                 ],
+                          //                               ),
+                          //                             ),
+                          //                           ],
+                          //                         ),
+                          //                       ),
+                          //                       Container(
+                          //                         // frame1171275743PHw (1:288)
+                          //                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7.5*fem),
+                          //                         width: 30*fem,
+                          //                         height: 24*fem,
+                          //                         child: Image.asset(
+                          //                           'assets/page-1/images/frame-1171275743-MxR.png',
+                          //                           width: 30*fem,
+                          //                           height: 24*fem,
+                          //                         ),
+                          //                       ),
+                          //                     ],
+                          //                   ),
+                          //                 ),
+                          //               ),
+                          //               Positioned(
+                          //                 // explorethepowerofourlatestappf (1:291)
+                          //                 left: 14*fem,
+                          //                 top: 14*fem,
+                          //                 child: Align(
+                          //                   child: SizedBox(
+                          //                     width: 321*fem,
+                          //                     height: 153*fem,
+                          //                     child: Text(
+                          //                       'Explore the power of our latest app feature - "Product Meeting." Effortlessly schedule and manage crucial product discussions in one central space. Collaborate seamlessly, set agenda items, and keep your team aligned for successful product development. Elevate your productivity with this intuitive feature designed to streamline your product meetings like never before.',
+                          //                       style: SafeGoogleFont (
+                          //                         'Manrope',
+                          //                         fontSize: 14*ffem,
+                          //                         fontWeight: FontWeight.w400,
+                          //                         height: 1.365*ffem/fem,
+                          //                         color: Color(0xff5b5b5b),
+                          //                       ),
+                          //                     ),
+                          //                   ),
+                          //                 ),
+                          //               ),
+                          //             ],
+                          //           ),
+                          //         ),
+                          //       ),
+                          //       // Positioned(
+                          //       //   // frame1171275751S9j (1:292)
+                          //       //   left: 0*fem,
+                          //       //   top: 133*fem,
+                          //       //   child: Container(
+                          //       //     padding: EdgeInsets.fromLTRB(14*fem, 7*fem, 6*fem, 0*fem),
+                          //       //     width: 340*fem,
+                          //       //     height: 119.5*fem,
+                          //       //     decoration: BoxDecoration (
+                          //       //       color: Color(0xffffffff),
+                          //       //       borderRadius: BorderRadius.circular(14*fem),
+                          //       //     ),
+                          //       //     child: Column(
+                          //       //       crossAxisAlignment: CrossAxisAlignment.center,
+                          //       //       children: [
+                          //       //         Container(
+                          //       //           // frame1171275748vah (1:293)
+                          //       //           margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 9*fem),
+                          //       //           width: double.infinity,
+                          //       //           height: 45.5*fem,
+                          //       //           child: Row(
+                          //       //             crossAxisAlignment: CrossAxisAlignment.center,
+                          //       //             children: [
+                          //       //               Container(
+                          //       //                 // frame11712757424B7 (1:294)
+                          //       //                 margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 104*fem, 0*fem),
+                          //       //                 width: 178*fem,
+                          //       //                 height: double.infinity,
+                          //       //                 child: Column(
+                          //       //                   crossAxisAlignment: CrossAxisAlignment.start,
+                          //       //                   children: [
+                          //       //                     Center(
+                          //       //                       // breakfastmeetupBWd (1:295)
+                          //       //                       child: Container(
+                          //       //                         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 0.5*fem),
+                          //       //                         width: double.infinity,
+                          //       //                         child: Text(
+                          //       //                           'Breakfast Meet-up',
+                          //       //                           textAlign: TextAlign.center,
+                          //       //                           style: SafeGoogleFont (
+                          //       //                             'Manrope',
+                          //       //                             fontSize: 20*ffem,
+                          //       //                             fontWeight: FontWeight.w600,
+                          //       //                             height: 1.365*ffem/fem,
+                          //       //                             color: Color(0xff282b31),
+                          //       //                           ),
+                          //       //                         ),
+                          //       //                       ),
+                          //       //                     ),
+                          //       //                     // Container(
+                          //       //                     //   // frame1171275747VXK (1:296)
+                          //       //                     //   margin: EdgeInsets.fromLTRB(1.13*fem, 0*fem, 29*fem, 0*fem),
+                          //       //                     //   width: double.infinity,
+                          //       //                     //   height: 17*fem,
+                          //       //                     //   child: Row(
+                          //       //                     //     crossAxisAlignment: CrossAxisAlignment.center,
+                          //       //                     //     children: [
+                          //       //                     //       Container(
+                          //       //                     //         // frame1171275741bqF (1:297)
+                          //       //                     //         margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 8*fem, 0*fem),
+                          //       //                     //         height: double.infinity,
+                          //       //                     //         child: Row(
+                          //       //                     //           crossAxisAlignment: CrossAxisAlignment.center,
+                          //       //                     //           children: [
+                          //       //                     //             Container(
+                          //       //                     //               // clockjRf (1:298)
+                          //       //                     //               margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 9.12*fem, 0*fem),
+                          //       //                     //               width: 9.75*fem,
+                          //       //                     //               height: 9.75*fem,
+                          //       //                     //               child: Image.asset(
+                          //       //                     //                 'assets/page-1/images/clock-Ads.png',
+                          //       //                     //                 width: 9.75*fem,
+                          //       //                     //                 height: 9.75*fem,
+                          //       //                     //               ),
+                          //       //                     //             ),
+                          //       //                     //             Center(
+                          //       //                     //               // jan2024eHj (1:300)
+                          //       //                     //               child: Text(
+                          //       //                     //                 '20 JAN 2024',
+                          //       //                     //                 textAlign: TextAlign.center,
+                          //       //                     //                 style: SafeGoogleFont (
+                          //       //                     //                   'Manrope',
+                          //       //                     //                   fontSize: 12*ffem,
+                          //       //                     //                   fontWeight: FontWeight.w400,
+                          //       //                     //                   height: 1.365*ffem/fem,
+                          //       //                     //                   color: Color(0xff979797),
+                          //       //                     //                 ),
+                          //       //                     //               ),
+                          //       //                     //             ),
+                          //       //                     //           ],
+                          //       //                     //         ),
+                          //       //                     //       ),
+                          //       //                     //       Container(
+                          //       //                     //         // frame1171275745mdF (1:301)
+                          //       //                     //         margin: EdgeInsets.fromLTRB(0*fem, 0.5*fem, 0*fem, 0.5*fem),
+                          //       //                     //         width: 53*fem,
+                          //       //                     //         height: double.infinity,
+                          //       //                     //         decoration: BoxDecoration (
+                          //       //                     //           color: Color(0xfffffaec),
+                          //       //                     //           borderRadius: BorderRadius.circular(14*fem),
+                          //       //                     //         ),
+                          //       //                     //         child: Center(
+                          //       //                     //           child: Center(
+                          //       //                     //             child: Text(
+                          //       //                     //               'Incomplete',
+                          //       //                     //               textAlign: TextAlign.center,
+                          //       //                     //               style: SafeGoogleFont (
+                          //       //                     //                 'Manrope',
+                          //       //                     //                 fontSize: 8*ffem,
+                          //       //                     //                 fontWeight: FontWeight.w500,
+                          //       //                     //                 height: 1.365*ffem/fem,
+                          //       //                     //                 color: Color(0xfffbbc04),
+                          //       //                     //               ),
+                          //       //                     //             ),
+                          //       //                     //           ),
+                          //       //                     //         ),
+                          //       //                     //       ),
+                          //       //                     //     ],
+                          //       //                     //   ),
+                          //       //                     // ),
+                          //       //                   ],
+                          //       //                 ),
+                          //       //               ),
+                          //       //               // Container(
+                          //       //               //   // frame1171275743rPo (1:303)
+                          //       //               //   margin: EdgeInsets.fromLTRB(0*fem, 0*fem, 0*fem, 7.5*fem),
+                          //       //               //   width: 30*fem,
+                          //       //               //   height: 24*fem,
+                          //       //               //   child: Image.asset(
+                          //       //               //     'assets/page-1/images/frame-1171275743-qn5.png',
+                          //       //               //     width: 30*fem,
+                          //       //               //     height: 24*fem,
+                          //       //               //   ),
+                          //       //               // ),
+                          //       //             ],
+                          //       //           ),
+                          //       //         ),
+                          //       //         // Container(
+                          //       //         //   // planamorningdelightusethistask (1:306)
+                          //       //         //   constraints: BoxConstraints (
+                          //       //         //     maxWidth: 320*fem,
+                          //       //         //   ),
+                          //       //         //   child: Text(
+                          //       //         //     'Plan a morning delight! Use this task to set a spot, date, and time for a memorable breakfast with friends. Keep it simple, start the day right! ',
+                          //       //         //     style: SafeGoogleFont (
+                          //       //         //       'Manrope',
+                          //       //         //       fontSize: 14*ffem,
+                          //       //         //       fontWeight: FontWeight.w400,
+                          //       //         //       height: 1.365*ffem/fem,
+                          //       //         //       color: Color(0xff5b5b5b),
+                          //       //         //     ),
+                          //       //         //   ),
+                          //       //         // ),
+                          //       //       ],
+                          //       //     ),
+                          //       //   ),
+                          //       // ),
+                          //     ],
+                          //   ),
+                          // ),
                           // Container(
                           //   // autogroupk9cgdYy (Y6MDE6yCxRo6zQMkF1k9cG)
                           //   width: double.infinity,
